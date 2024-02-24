@@ -1,4 +1,4 @@
-This is an add-on web application developed to solve another bottle neck issue faced by the officer in NEA EHI. This web application has 2 capability to solve 2 main problems. 
+This is an add-on web application developed to solve another bottle neck issue faced by the officer in NEA EHI. This web application have 2 capabilities to solve 2 main problems faced among NEA Officers. 
 
 First:
 In Project Wolbachia, only male mosquitoes can be release into the environment. At the puppae stage, male puppae are much smaller thn female puppae. 
